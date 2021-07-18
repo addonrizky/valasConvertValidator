@@ -4,7 +4,7 @@ const (
 	RC_SUCCESS = "00"
 	
 	/*
-	 * britama flexy
+	 * valas convert response validation
 	 */
 	DESC_SUCCESS_FLEXY = "seluruh parameter pembukaan rekening flexy valid"	
 	//----
